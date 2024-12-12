@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Python\\Car-CopyofPrac5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68F65907-186C-4D8B-BA7E-38BD84FAE672}|Car-CopyofPrac5.pyproj|E:\\Python\\Car-CopyofPrac5\\carList.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{68F65907-186C-4D8B-BA7E-38BD84FAE672}|Car-CopyofPrac5.pyproj|solutionrelative:carList.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F65907-186C-4D8B-BA7E-38BD84FAE672}|Car-CopyofPrac5.pyproj|E:\\Python\\Car-CopyofPrac5\\Program.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{68F65907-186C-4D8B-BA7E-38BD84FAE672}|Car-CopyofPrac5.pyproj|solutionrelative:Program.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 202,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "carList.py",
+              "DocumentMoniker": "E:\\Python\\Car-CopyofPrac5\\carList.py",
+              "RelativeDocumentMoniker": "carList.py",
+              "ToolTip": "E:\\Python\\Car-CopyofPrac5\\carList.py",
+              "RelativeToolTip": "carList.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-20T15:57:42.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 205,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.py",
+              "DocumentMoniker": "E:\\Python\\Car-CopyofPrac5\\Program.py",
+              "RelativeDocumentMoniker": "Program.py",
+              "ToolTip": "E:\\Python\\Car-CopyofPrac5\\Program.py",
+              "RelativeToolTip": "Program.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-20T15:54:34.172Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\C#\Projects\GPA_APP\bin\Debug\GPA_APP.exe.config
+D:\C#\Projects\GPA_APP\bin\Debug\GPA_APP.exe
+D:\C#\Projects\GPA_APP\bin\Debug\GPA_APP.pdb
+D:\C#\Projects\GPA_APP\obj\Debug\GPA_APP.csproj.AssemblyReference.cache
+D:\C#\Projects\GPA_APP\obj\Debug\GPA_APP.csproj.CoreCompileInputs.cache
+D:\C#\Projects\GPA_APP\obj\Debug\GPA_APP.exe
+D:\C#\Projects\GPA_APP\obj\Debug\GPA_APP.pdb
+E:\C#\Projects\GPA_APP\bin\Debug\GPA_APP.exe.config
+E:\C#\Projects\GPA_APP\bin\Debug\GPA_APP.exe
+E:\C#\Projects\GPA_APP\bin\Debug\GPA_APP.pdb
+E:\C#\Projects\GPA_APP\obj\Debug\GPA_APP.csproj.AssemblyReference.cache
+E:\C#\Projects\GPA_APP\obj\Debug\GPA_APP.csproj.CoreCompileInputs.cache
+E:\C#\Projects\GPA_APP\obj\Debug\GPA_APP.exe
+E:\C#\Projects\GPA_APP\obj\Debug\GPA_APP.pdb

@@ -1,0 +1,225 @@
+/* Nsovo Maswanganyi 224788213 */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a.active{
+    background-color: floralwhite;
+    padding: 0.4em;
+    margin: 0.1em;
+    font-weight: bolder;
+}
+
+#container {
+    display: flex;
+    padding: 1em;
+    margin: 1em;
+}
+
+#topParagraph {
+    flex: 15%;
+    flex-wrap: wrap;
+    margin-right: 0.5em;
+}
+
+#formDiv {
+    flex: 90%;
+}
+
+fieldset {
+    padding: 2em;
+}
+
+.button {
+    background-color: #a8c686;
+    color: floralwhite;
+    padding: 0.5em;
+    margin: 1.5em;
+    border: none;
+    width: 10em;
+}
+
+#feedback {
+    background-color: floralwhite;
+    color: #e76f51;
+    text-align: center;
+}
+
+legend {
+    font-weight: bold;
+    color: #6b4226;
+}
+
+#tipText {
+    display: none;
+
+}
+.highlight:hover #tipText{
+    display: block;
+    color: green;
+    background-color: lightyellow;
+    font-size: 70%;
+    position: relative;
+    top: 10px;
+    left: 5px;
+    width: 200px;
+}
+
+.page {
+    width: 80%;
+    margin: auto;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+/* Container for the gallery */
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; 
+    gap: 1.5em; 
+    padding: 1.5em;
+}
+
+/* Each row container */
+.row {
+    display: flex;
+    justify-content: center;
+    gap: 1.5em;
+    width: 100%;
+}
+
+/* Styling for images */
+.recipe-img {
+    width: calc(33.33% - 1em); 
+    height: 375px;
+}
+
+.recipe-img:hover {
+    border: thin solid #a8c686;
+    padding: 1em;
+    background-color: floralwhite;
+}
+
+#Main {
+    display: flex;
+}
+
+#Sub-main {
+    display: flex;
+}
+
+#TextBlock {
+    flex:  25%;
+    order: 1;
+    margin: 1em;
+}
+
+#MiddleTable {
+    flex: 50%;
+    margin: 1em;
+}
+
+#TextBlock2 {
+    flex: 25%;
+    order: -1;
+    margin: 1em;
+}
+
+#RightContent {
+    flex: 1;
+    margin: 1em;
+    align-content: center;
+    text-align: center;
+    padding: 1.5em;
+}
+
+#Image {
+    flex: 1;
+    align-content: center;
+}
+
+header {
+    background-color: floralwhite;
+    margin-bottom: 0.5em;
+}
+
+nav{
+
+    text-align: center;
+    margin: 0.5em;
+    padding: 0.5em;
+    border-bottom: #a8c686 solid ;
+    border-top: #a8c686 solid;
+}
+
+p {
+    word-spacing: 0.5em;
+}
+
+body {
+    font-family: Verdana;
+    background-color: #fbe8a6;
+}
+
+h1 {
+    text-align: center;
+    padding: 1em;
+    color: #f4a261;
+}
+
+h2 {
+    text-align: center;
+    font-style: italic;
+    color: #6b4226;
+}
+
+ol li{
+    display: inline;
+    padding-right: 2em;
+}
+
+a {
+    text-decoration: none;
+    color: #e76f51;
+}
+
+ol,ul {
+    list-style-type: none;
+}
+
+nav a:hover {
+    background-color: #f4a261;
+}
+
+span {
+    font-style: italic;
+    color: #e76f51;
+}
+
+
+td,th {
+    padding: 0.5em;
+    border:solid #a8c686;
+}
+
+
+table {
+    margin: auto; 
+    border-collapse: collapse; 
+}
+
+
+img {
+    border:3px solid #a8c686;
+    margin: 1em;
+}
+
+footer {
+    text-align: center;
+    font-weight: bold;
+    font-size: 70%;
+    margin-bottom: 1.5em;
+}

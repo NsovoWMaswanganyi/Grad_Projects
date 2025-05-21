@@ -1,0 +1,14 @@
+D:\C#\Projects\StalkingApp\obj\Debug\StalkingApp.csproj.AssemblyReference.cache
+D:\C#\Projects\StalkingApp\obj\Debug\StalkingApp.csproj.CoreCompileInputs.cache
+D:\C#\Projects\StalkingApp\bin\Debug\StalkingApp.exe.config
+D:\C#\Projects\StalkingApp\bin\Debug\StalkingApp.exe
+D:\C#\Projects\StalkingApp\bin\Debug\StalkingApp.pdb
+D:\C#\Projects\StalkingApp\obj\Debug\StalkingApp.exe
+D:\C#\Projects\StalkingApp\obj\Debug\StalkingApp.pdb
+C:\Users\NSOVO MASWANGANYI\OneDrive - Nelson Mandela University\Desktop\Local Repositories\Grad_Projects\FirstYear\personal_projects\StalkingApp\bin\Debug\StalkingApp.exe.config
+C:\Users\NSOVO MASWANGANYI\OneDrive - Nelson Mandela University\Desktop\Local Repositories\Grad_Projects\FirstYear\personal_projects\StalkingApp\bin\Debug\StalkingApp.exe
+C:\Users\NSOVO MASWANGANYI\OneDrive - Nelson Mandela University\Desktop\Local Repositories\Grad_Projects\FirstYear\personal_projects\StalkingApp\bin\Debug\StalkingApp.pdb
+C:\Users\NSOVO MASWANGANYI\OneDrive - Nelson Mandela University\Desktop\Local Repositories\Grad_Projects\FirstYear\personal_projects\StalkingApp\obj\Debug\StalkingApp.csproj.AssemblyReference.cache
+C:\Users\NSOVO MASWANGANYI\OneDrive - Nelson Mandela University\Desktop\Local Repositories\Grad_Projects\FirstYear\personal_projects\StalkingApp\obj\Debug\StalkingApp.csproj.CoreCompileInputs.cache
+C:\Users\NSOVO MASWANGANYI\OneDrive - Nelson Mandela University\Desktop\Local Repositories\Grad_Projects\FirstYear\personal_projects\StalkingApp\obj\Debug\StalkingApp.exe
+C:\Users\NSOVO MASWANGANYI\OneDrive - Nelson Mandela University\Desktop\Local Repositories\Grad_Projects\FirstYear\personal_projects\StalkingApp\obj\Debug\StalkingApp.pdb

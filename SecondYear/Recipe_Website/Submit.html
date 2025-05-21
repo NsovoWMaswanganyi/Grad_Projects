@@ -1,0 +1,87 @@
+<html>
+    <head>
+        <title>Submit</title>
+        <link rel="stylesheet" type="text/css" href="Styles/stylesheet.css">
+    </head>
+
+    <body>
+        <div class="page">
+        <header>
+            <h1>
+                Welcome to your personalised Recipe Book
+            </h1>
+
+            <h2>
+                Discover and share your favourite recipes! Whether you're a beginner or a seasoned chef, you'll find delicious meals to try
+            </h2>
+        </header>
+
+        <nav>
+            <ol>
+                <li><a href="Home.html">Home</a></li>
+                <li><a href="Essentials.html">Essentials</a></li>
+                <li><a href="Recipes.html">Recipes</a></li>
+                <li><a class="active" href="Submit.html">Submit</a></li>
+            </ol>
+        </nav>
+
+        <div id="container">
+            <div id="topParagraph">
+                <p>
+                    Submit your favourite recipe and your recipe could be featured on the site!
+                </p>
+            </div>
+
+            <div id="formDiv">
+                <form action="mailto:isabellet@mandela.ac.za">
+                    <fieldset>
+                        <legend>Recipe Submission</legend>
+
+                        <br>
+                        <label for="firstName">First Name</label>
+                        <input type="text" id="firstName" name="firstName">
+                        <br>
+                        <br>
+                        <label for="email">Email Address</label>
+                        <input type="email" id="email" name="email">
+                        <br>
+                        <br>
+                        <p>What type of recipe will satisfy your sweet tooth? </p>
+                        <br>
+
+                        <input type="radio" name="recipeType" value="breakfast">Breakfast
+
+                        <input type="radio" name="recipeType" value="lunch">Lunch
+
+                        <input type="radio" name="recipeType" value="dinner">Dinner
+
+                        <input type="radio" name="recipeType" value="desserts">Desserts
+                        <br>
+                        <br>
+                        <h4 id="feedback">< feedback ></h4> 
+                        <br>
+                        <br>
+
+                        <textarea name="recipe" id="recipe" cols="100" rows="15">Type your recipe here</textarea>
+
+                        <br>
+                        <br>
+                        <button id="check" class="button" onclick="return checkAnswer()">Check Answer</button>
+                        <button id="submitBtn" class="button">Submit Recipe</button>
+                        <button class="button" onclick="return customReset()" >Reset</button>
+
+                    </fieldset>
+                </form>
+            </div>
+        </div>
+        
+
+        <footer>
+            Created by Nsovo Maswanganyi - March 2025
+        </footer>
+    </div>
+
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <script src="Scripts/script.js" type="text/javascript"></script>
+    </body>
+</html>

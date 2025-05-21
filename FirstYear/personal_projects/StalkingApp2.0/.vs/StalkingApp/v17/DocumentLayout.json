@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NSOVO MASWANGANYI\\OneDrive - Nelson Mandela University\\Desktop\\Local Repositories\\Grad_Projects\\FirstYear\\personal_projects\\StalkingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14A611AD-78D9-478B-9F4E-F8CFC68900A8}|StalkingApp.csproj|c:\\users\\nsovo maswanganyi\\onedrive - nelson mandela university\\desktop\\local repositories\\grad_projects\\firstyear\\personal_projects\\stalkingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14A611AD-78D9-478B-9F4E-F8CFC68900A8}|StalkingApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14A611AD-78D9-478B-9F4E-F8CFC68900A8}|StalkingApp.csproj|c:\\users\\nsovo maswanganyi\\onedrive - nelson mandela university\\desktop\\local repositories\\grad_projects\\firstyear\\personal_projects\\stalkingapp\\bin\\debug\\previous.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{14A611AD-78D9-478B-9F4E-F8CFC68900A8}|StalkingApp.csproj|solutionrelative:bin\\debug\\previous.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14A611AD-78D9-478B-9F4E-F8CFC68900A8}|StalkingApp.csproj|c:\\users\\nsovo maswanganyi\\onedrive - nelson mandela university\\desktop\\local repositories\\grad_projects\\firstyear\\personal_projects\\stalkingapp\\bin\\debug\\current.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{14A611AD-78D9-478B-9F4E-F8CFC68900A8}|StalkingApp.csproj|solutionrelative:bin\\debug\\current.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 183,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "current.txt",
+              "DocumentMoniker": "C:\\Users\\NSOVO MASWANGANYI\\OneDrive - Nelson Mandela University\\Desktop\\Local Repositories\\Grad_Projects\\FirstYear\\personal_projects\\StalkingApp\\bin\\Debug\\current.txt",
+              "RelativeDocumentMoniker": "bin\\Debug\\current.txt",
+              "ToolTip": "C:\\Users\\NSOVO MASWANGANYI\\OneDrive - Nelson Mandela University\\Desktop\\Local Repositories\\Grad_Projects\\FirstYear\\personal_projects\\StalkingApp\\bin\\Debug\\current.txt",
+              "RelativeToolTip": "bin\\Debug\\current.txt",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-07T11:08:08.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "previous.txt",
+              "DocumentMoniker": "C:\\Users\\NSOVO MASWANGANYI\\OneDrive - Nelson Mandela University\\Desktop\\Local Repositories\\Grad_Projects\\FirstYear\\personal_projects\\StalkingApp\\bin\\Debug\\previous.txt",
+              "RelativeDocumentMoniker": "bin\\Debug\\previous.txt",
+              "ToolTip": "C:\\Users\\NSOVO MASWANGANYI\\OneDrive - Nelson Mandela University\\Desktop\\Local Repositories\\Grad_Projects\\FirstYear\\personal_projects\\StalkingApp\\bin\\Debug\\previous.txt",
+              "RelativeToolTip": "bin\\Debug\\previous.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-07T10:42:58.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NSOVO MASWANGANYI\\OneDrive - Nelson Mandela University\\Desktop\\Local Repositories\\Grad_Projects\\FirstYear\\personal_projects\\StalkingApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\NSOVO MASWANGANYI\\OneDrive - Nelson Mandela University\\Desktop\\Local Repositories\\Grad_Projects\\FirstYear\\personal_projects\\StalkingApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAnwCwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T09:24:12.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
